@@ -1,0 +1,1 @@
+Taylor-rel0.025-mid_cor2-max_block_order1-1-max_order1cfg1.5-seed0-step50: Total 2734.90s, Avg 0.05s/image

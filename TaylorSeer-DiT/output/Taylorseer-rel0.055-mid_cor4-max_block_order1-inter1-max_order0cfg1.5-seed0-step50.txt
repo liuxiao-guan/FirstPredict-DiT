@@ -1,0 +1,1 @@
+Taylorseer-rel0.055-mid_cor4-max_block_order1-inter1-max_order0cfg1.5-seed0-step50: Total 7918.30s, Avg 0.1583660s/image

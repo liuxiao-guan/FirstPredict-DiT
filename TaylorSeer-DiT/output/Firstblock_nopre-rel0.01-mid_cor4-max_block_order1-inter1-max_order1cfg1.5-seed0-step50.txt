@@ -1,0 +1,1 @@
+Firstblock_nopre-rel0.01-mid_cor4-max_block_order1-inter1-max_order1cfg1.5-seed0-step50: Total 4065.78s, Avg 0.0813155s/image
