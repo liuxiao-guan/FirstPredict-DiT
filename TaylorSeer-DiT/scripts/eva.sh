@@ -1,0 +1,2 @@
+python evaluator.py /root/paddlejob/workspace/env_run/test_data/VIRTUAL_imagenet256_labeled.npz /root/paddlejob/workspace/env_run/gxl/output/PaddleMIX/inf_speed_dit/Firstblock_nopre-rel0.01-mid_cor2-max_block_order1-inter1-max_order1cfg1.5-seed0-step50.npz
+python evaluator.py /root/paddlejob/workspace/env_run/test_data/VIRTUAL_imagenet256_labeled.npz /root/paddlejob/workspace/env_run/gxl/output/PaddleMIX/inf_speed_dit/Firstblock_nopre-rel0.01-mid_cor2-max_block_order1-inter1-max_order1cfg1.5-seed0-step50.npz
